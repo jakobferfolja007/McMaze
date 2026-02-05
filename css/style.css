@@ -1,0 +1,9 @@
+
+#myCanvas {
+  display: block;
+  margin: 250px auto;
+
+
+  width: 600px;
+  height: 600px;
+}
